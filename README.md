@@ -16,4 +16,5 @@ FEATURES:
 - Agregar un libro a la coleccion personal
 - Eliminar un libro de la coleccion personal
 - Lista de coleccion de libros
+- Personalizacion de perfil (nombre, apellido y password)
 - Deslogueo de la app
