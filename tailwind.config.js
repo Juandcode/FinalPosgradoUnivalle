@@ -23,6 +23,7 @@ module.exports = {
       },
       textColor:({theme})=>({
         ...theme('colors'),
+        white: '#fff',
       }),
       borderColor: ({ theme }) => ({
         ...theme('colors'), // Hereda todos los colores de la paleta

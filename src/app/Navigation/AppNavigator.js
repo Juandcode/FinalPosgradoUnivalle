@@ -43,11 +43,8 @@ export default function AppNavigator() {
     useEffect(() => {
         const unsubscribe = onAuthStateChanged(auth, (user) => {
             if (user) {
-                console.log("---------user------------");
-                console.log(user);
                 dispatch(userChanged(user.email));
             }
-            console.log("cambio");
             SplashScreen.hide();
             dispatch(loadingLoginChanged(false));
         });
