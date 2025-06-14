@@ -19,3 +19,4 @@ FEATURES:
 - Personalizacion de perfil (nombre, apellido y password)
 - Deslogueo de la app
 - Tema Claro y oscuro dependiendo de la configuracion del celular
+- Storage para subir imagen de perfil
