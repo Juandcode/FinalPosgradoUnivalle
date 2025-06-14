@@ -18,3 +18,4 @@ FEATURES:
 - Lista de coleccion de libros
 - Personalizacion de perfil (nombre, apellido y password)
 - Deslogueo de la app
+- Tema Claro y oscuro dependiendo de la configuracion del celular
